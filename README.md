@@ -4,9 +4,11 @@ I'm on a journey to become a coding master, and I'm loving every moment of it! I
 
 ## What I've been up to 💻
 
-- I've created some amazing projects using Python, like my biggest project ever, the Stars API 🌟 (https://github.com/junaidcodingmaster/Stars-API), which showcases my skills in Python.
-- I've also created a social media app using Expo-CLI, the Spectagram app 📷 (https://github.com/junaidcodingmaster/Spectagram-App), which is my biggest project using Expo-CLI.
-- I've even made some useful Chrome extensions on my own! Check out my Fast.com Chrome Extension 💻 (https://github.com/junaidcodingmaster/Fast.com-Chrome-Extension) and Google Tasks Chrome Extension 📝 (https://github.com/junaidcodingmaster/Google-Tasks-Chrome-Extension)
+- I've created some amazing projects using Python, like my biggest project ever, [The Stars API 🌟](https://github.com/junaidcodingmaster/Stars-API), which showcases my skills in Python.
+
+- I've also created a social media app using Expo-CLI, [the Spectagram app 📷](https://github.com/junaidcodingmaster/Spectagram-App), which is my biggest project using Expo-CLI.
+
+- I've even made some useful Chrome extensions on my own! Check out my [Fast.com Chrome Extension 💻](https://github.com/junaidcodingmaster/Fast.com-Chrome-Extension) and [Google Tasks Chrome Extension 📝](https://github.com/junaidcodingmaster/Google-Tasks-Chrome-Extension)
 
 ## What I'm good at 💪
 
