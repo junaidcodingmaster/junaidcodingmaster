@@ -1,4 +1,4 @@
-# Hey there! I'm a 17-year-old software developer 🚀
+# Hey there! I'm a 18-year-old software developer 🚀
 Coding since age of 10.
 
 I'm on a journey to become a coding master, and I'm loving every moment of it! I'm always working on new projects and learning new things.
